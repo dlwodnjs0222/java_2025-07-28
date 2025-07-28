@@ -27,7 +27,6 @@ class F implements D{
 }
 
 class A {
-	//클래스 
 	//집합 관계
 }
 

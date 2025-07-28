@@ -1,6 +1,6 @@
 package sec01.esc01;
 
-public class Cae02 {
+public class Car02 {
 
 	public static void main(String[] args) {
 		Car01 mycar = new Car01();
