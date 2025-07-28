@@ -1,0 +1,5 @@
+package sec01.esc01;
+
+public enum Day {
+	MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAT, SATURDAY, SUNDAY
+}
